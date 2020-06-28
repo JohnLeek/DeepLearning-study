@@ -11,4 +11,4 @@ day4使用tf搭建了一个简单的CNN
 day5使用tf实现了ResNet  
 ————day5_cifar10_ResNet.py为源码  
 ————day5_cifar10_ResNet.png为模型结果  
-————day5_cifar10_ResNet——断点续训.png为断点续训得到模型结果，在这次断点续训之前我自己又跑了25次，所以模型结果比较高。  
+————day5_cifar10_ResNet_断点续训.png为断点续训得到模型结果，在这次断点续训之前我自己又跑了25次，所以模型结果比较高。  
