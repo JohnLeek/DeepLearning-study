@@ -3,5 +3,12 @@
 day1为tenforlow入门。  
 day2实现了正则化操作，dot.csv为day要使用的数据集。  
 day3利用tensorflow中的keras模块搭建了神经网络实现了对mnist中手写数字的识别，然后引入了断点续训保存了训练好的模型。  
-————————————day3_mnist_reg.py为keras搭建的基础模型  
-————————————day3_mnist_trian_ex4 我引入了断点续训保存训练好的模型，并保存了神经网络参数权重
+————day3_mnist_reg.py为keras搭建的基础模型  
+————day3_mnist_trian_ex4 我引入了断点续训保存训练好的模型，并保存了神经网络参数权重  
+day4使用tf搭建了一个简单的CNN  
+————day4_cifar10_baseline.py为源码  
+————day4_cifar1_baseline.png为模型结果  
+day5使用tf实现了ResNet  
+————day5_cifar10_ResNet.py为源码  
+————day5_cifar10_ResNet.png为模型结果  
+————day5_cifar10_ResNet——断点续训.png为断点续训得到模型结果，在这次断点续训之前我自己又跑了25次，所以模型结果比较高。  
