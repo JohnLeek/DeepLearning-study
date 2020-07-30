@@ -15,7 +15,7 @@ day5使用tf实现了ResNet
 day6使用tf实现了VGG16网络  
 ————day6_cifar10_VGG.py为源码  
 ————day6_cifar10_VGG.png为模型结果  
-day7使用tf中的eager模式实现了花卉数据集的分类任务
+day7使用tf中的eager模式实现了花卉数据集的分类任务  
 ————day7_flowers_tf_data.py为源码  
 ————day7_flowers_tf_data.png为模型结果  
-代码还在持续更新中，后边可能会在b站录讲解视频，后续会更新RNN和DCGAN
+代码还在持续更新中，后边可能会在b站录讲解视频，后续会更新RNN和DCGAN  
